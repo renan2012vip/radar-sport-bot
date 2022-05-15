@@ -1,5 +1,5 @@
 'use strict'
-
+const { sportData } = require('radar-sport-bot');
 const axios = require('axios').default;
 
 const api = axios.create({

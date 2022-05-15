@@ -227,8 +227,3 @@ betfair.getByPath('en/America:Montevideo/gismo/config_tree_mini/41/0/16').then(d
 ```
 
 #### Notas de desenvolvimento
-
-Para mais informações:
-
-> Telegram: @VictorRatts
-> email: victor.ratts13@gmail.com

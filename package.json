@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victorratts13/radar-sport-api.git"
+    "url": "git+https://github.com/renan2012vip/radar-sport-bot.git"
   },
   "keywords": [
     "bet365",
@@ -28,9 +28,9 @@
   "author": "Victor Ratts",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/victorratts13/radar-sport-api/issues"
+    "url": "https://github.com/renan2012vip/radar-sport-bot/issues"
   },
-  "homepage": "https://github.com/victorratts13/radar-sport-api#readme",
+  "homepage": "https://github.com/renan2012vip/radar-sport-bot#readme",
   "dependencies": {
     "axios": "^0.22.0"
   }

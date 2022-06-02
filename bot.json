@@ -1,6 +1,6 @@
 {
   "name": "radar-sport-bot",
-  "version": "1.0.4",
+  "version": "1.0",
   "description": "datas e estatisticas de das maiores casas de aposta",
   "main": "index.js",
   "scripts": {

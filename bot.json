@@ -3,4 +3,37 @@
   "name":"radar-sport-bot",
   "git_remote":"git@github.com:renan2012vip/radar-sport-bot.git",
   "csv_url":"https://example.com/csv"
+    "description": "datas e estatisticas de das maiores casas de aposta",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renan2012vip/radar-sport-bot.git"
+  },
+  "keywords": [
+    "bet365",
+    "betway",
+    "betFair",
+    "betano",
+    "rivalo",
+    "tipbet",
+    "888sport",
+    "sportingbet",
+    "radar-sports",
+    "radar-sport-api",
+    "s5",
+    "sport",
+    "api"
+  ],
+  "author": "Victor Ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renan2012vip/radar-sport-bot/issues"
+  },
+  "homepage": "https://github.com/renan2012vip/radar-sport-bot#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
 }
